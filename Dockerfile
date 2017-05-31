@@ -1,6 +1,6 @@
 FROM centos:7
 
-MAINTAINER "Andreas Bellmann" <andreas.bellmann@gmail.com>
+MAINTAINER "Andreas Bellmann" <andreas.bellmann@opitz-consulting.com>
 
 ENV OS_CLI_VERSION_MAJOR 3.4
 ENV OS_CLI_VERSION_MINOR 1.2-1
